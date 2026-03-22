@@ -1,0 +1,32 @@
+:root {
+    --foreground: #FFFFFF;
+    --background: #FAFAFA;
+    --accent1: #1F98AD;
+    --accent2: #A38BFB;
+    --accent3: #FB913A;
+
+    --main-text: #2A2A2A;
+    --grey-text: #373D49;
+    --white-text: #F0F4F9;
+    --fadec-text: #B5B4B9;
+}
+
+@font-face {
+    font-family: "GoogleSans-Regular";
+    src: url(assets/fonts/GoogleSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: "GoogleSans-Italic";
+    src: url(assets/fonts/GoogleSans-Italic.ttf);
+}
+
+@font-face {
+    font-family: "GoogleSans-SemiBold";
+    src: url(assets/fonts/GoogleSans-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: "Unbounded";
+    src: url(assets/fonts/Unbounded-Medium.ttf);
+}
